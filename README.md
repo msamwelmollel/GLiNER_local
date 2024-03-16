@@ -9,16 +9,18 @@ Before you start, ensure your system meets the following requirements:
 
 Python 3.8 or higher
 pip for Python 3
-To install the required dependencies, run the following commands:
 
 ## Usage
-This project involves several steps to enhance the RAG system, including entity recognition, query refinement, and leveraging LLMs for improved performance. Follow these steps to set up and use the system:
+This project involves two significant steps to enhance the RAG system: entity recognition, query refinement, and leveraging LLMs for improved performance. Follow these steps to set up and use the system:
 
 Step 1: Setup GLiNER
 Clone the GLiNER repository or install it via HuggingFace:
 
+Step 2: Run 
+Clone my repository and then run RAG_NER.py:
+
 
 ## Contributing
-We welcome contributions from the community. If you'd like to improve the project or suggest enhancements, please follow the standard GitHub pull request process:
+We welcome contributions from the community. If you'd like to improve the project or suggest enhancements, please follow reach my email: msamwelmollel@gmail.com
 
 
