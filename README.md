@@ -15,6 +15,7 @@ This project involves two significant steps to enhance the RAG system: entity re
 
 Step 1: Setup GLiNER
 Clone the GLiNER repository or install it via HuggingFace:
+
 Step 2: Run 
 Clone my repository and then run RAG_NER.py:
 
